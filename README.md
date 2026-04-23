@@ -1,6 +1,1 @@
-# openIMIS French Niger translations of reference modules
-This repository holds the files of the openIMIS French Niger translations of reference modules.
-It is dedicated to be deployed as a module of [openimis-fe_js](https://github.com/openimis/openimis-fe_js).
-
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
-# openimis-ina-module
+# openimis-ina-module (forked from the open imis frech module, but i havent forked it yet but its similar, only for testing purposes)
